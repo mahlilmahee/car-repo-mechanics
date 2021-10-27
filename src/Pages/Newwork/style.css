@@ -1,0 +1,20 @@
+.services{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    margin-left: -100px;
+   
+
+
+}
+
+.services input{
+    width: 200%;
+    display: block;
+    margin-bottom: 10px;
+}
+.services textarea{
+    width: 200%;
+}
